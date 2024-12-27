@@ -1,0 +1,275 @@
+# Star Trek Solution Generator Templates
+
+## Template 1: Basic Technical Solution
+"If we [ACTION VERB] the [SHIP SYSTEM] to emit a [PARTICLE TYPE] [EMISSION TYPE], we should be able to [DESIRED RESULT]."
+
+ACTION VERB:
+- Modify
+- Reconfigure
+- Reroute
+- Initialize
+- Calibrate
+- Amplify
+- Enhance
+- Synchronize
+- Modulate
+- Triangulate
+
+SHIP SYSTEM:
+- Tricorder
+- Communicator
+- Pattern enhancers
+- Universal translator
+- Medical scanner
+- Phaser array
+- Emergency beacon
+- Environmental suit
+- Portable shield generator
+- Deflector dish
+- Main sensors
+- Shield generators
+- EPS conduits
+- Warp core
+
+PARTICLE TYPE:
+- Tachyon
+- Verteron
+- Chronoton
+- Tetryon
+- Graviton
+- Bio-neural
+- Quantum
+- Subspace
+- Neutrino
+- Positronic
+
+EMISSION TYPE:
+- Pulse
+- Beam
+- Field
+- Wave
+- Burst
+- Signal
+- Frequency
+- Resonance
+- Pattern
+- Matrix
+
+DESIRED RESULT:
+- Penetrate their shields
+- Break through the interference
+- Detect their ships
+- Disrupt their weapons
+- Establish communication
+- Bypass their shields
+- Deactivate their shields
+- Power up console
+- Access corrupted data
+- Bypass security
+- Deactivate security
+- Access environmental controls
+- Boost the signal strength
+- Enhance sensor resolution
+- Establish emergency transport
+- Create a force field
+- Neutralize the radiation
+- Stabilize life support
+
+Example: "If we modify the tricorder to emit a bio-neural pulse, we should be able to enhance sensor resolution."
+
+## Template 2: Emergency Response
+"We could [CREATE ACTION] a [TECHNICAL NOUN] [LOCATION] by [TECHNICAL ACTION] the [SYSTEM] through the [SECONDARY SYSTEM]!"
+
+CREATE ACTION:
+- Generate
+- Create
+- Establish
+- Project
+- Initialize
+- Deploy
+- Activate
+- Configure
+- Synchronize
+- Calibrate
+
+TECHNICAL NOUN:
+- Feedback
+- Resonance
+- Containment
+- Interference
+- Dampening
+- Forcefield
+- Transporter lock
+- Emergency beacon
+- Bio-filter
+- Stasis field
+
+LOCATION:
+- Matrix
+- Field
+- Grid
+- Array
+- Network
+- Perimeter
+- Zone
+- Sector
+- Chamber
+- Corridor
+
+TECHNICAL ACTION:
+- Routing
+- Channeling
+- Cycling
+- Looping
+- Cascading
+- Scanning
+- Analyzing
+- Processing
+- Filtering
+- Enhancing
+
+SYSTEM:
+- Tricorder
+- Pattern enhancers
+- Com badge
+- Universal translator
+- Medical scanner
+- Emergency beacon
+- Phaser rifle
+- Shield generator
+- Life support
+- Environmental controls
+
+SECONDARY SYSTEM:
+- Auxiliary processors
+- Secondary buffers
+- Backup generators
+- Emergency systems
+- Reserve power cells
+- Portable replicator
+- Emergency transporter
+- Backup tricorder
+- Secondary scanner
+- Auxiliary communicator
+
+Example: "We could deploy a transporter lock grid by analyzing the pattern enhancers through the emergency transporter!"
+
+## Template 3: Complex Solution
+"By [TECHNICAL PROCESS] a [MODIFYING WORD] [ENERGY TYPE] [PATTERN] using the [PRIMARY TOOL], we might be able to [ACTION VERB] their [TARGET SYSTEM] with a [MODIFIER] [EMISSION TYPE]!"
+
+TECHNICAL PROCESS:
+- Initializing
+- Configuring
+- Implementing
+- Modulating
+- Programming
+- Calibrating
+- Synchronizing
+- Triangulating
+- Reconfiguring
+- Optimizing
+
+MODIFYING WORD:
+- Rotating
+- Cascading
+- Inverse
+- Phased
+- Recursive
+- Multi-phasic
+- Bio-neural
+- Quantum
+- Harmonic
+- Adaptive
+
+ENERGY TYPE:
+- Subspace
+- Quantum
+- Temporal
+- Warp
+- Plasma
+- Bio-electric
+- Neural
+- Positronic
+- Psionic
+- Tachyon
+
+PATTERN:
+- Algorithm
+- Sequence
+- Protocol
+- Pattern
+- Format
+- Matrix
+- Configuration
+- Signature
+- Frequency
+- Resonance
+
+PRIMARY TOOL:
+- Tricorder
+- Medical tricorder
+- Pattern enhancers
+- Com badge
+- Universal translator
+- Phaser
+- Medical scanner
+- Emergency beacon
+- Environmental suit
+- Portable shield generator
+
+ACTION VERB:
+- Disrupt
+- Override
+- Bypass
+- Neutralize
+- Deactivate
+- Analyze
+- Enhance
+- Stabilize
+- Modulate
+- Amplify
+
+TARGET SYSTEM:
+- Force field
+- Security system
+- Energy barrier
+- Defense grid
+- Shield matrix
+- Dampening field
+- Containment field
+- Interference pattern
+- Sensor grid
+- Communication array
+
+MODIFIER:
+- Focused
+- Concentrated
+- Amplified
+- Enhanced
+- Synchronized
+- Multi-phasic
+- Quantum
+- Bio-neural
+- Adaptive
+- Harmonic
+
+EMISSION TYPE:
+- Burst
+- Pulse
+- Beam
+- Wave
+- Field
+- Signal
+- Frequency
+- Pattern
+- Matrix
+- Resonance
+
+Example: "By triangulating a multi-phasic bio-electric signature using the pattern enhancers, we might be able to enhance their force field with a quantum frequency!"
+
+To use these templates, players can either:
+1. Roll randomly for each category
+2. Pick the most appropriate options for their situation
+3. Mix and match between templates to create new combinations
+
+The key is to sound confident and use at least 3-4 technical terms in each solution attempt! The templates now include a wide variety of away team equipment and specialized tools commonly used in Star Trek away missions.
