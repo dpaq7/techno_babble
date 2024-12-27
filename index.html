@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Trek Techno-Babble Generator</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Star Trek Techno-Babble Generator</h1>
+        
+        <div class="scenario-container">
+            <h2>Basic Technical Solution</h2>
+            <p class="madlib-text">
+                "If we <span class="blank" data-field="action_verb"><select id="action_verb"></select></span> the 
+                <span class="blank" data-field="ship_system"><select id="ship_system"></select></span> to emit a 
+                <span class="blank" data-field="particle_type"><select id="particle_type"></select></span> 
+                <span class="blank" data-field="emission_type"><select id="emission_type"></select></span>, we should be able to 
+                <span class="blank" data-field="desired_result"><select id="desired_result"></select></span>."
+            </p>
+        </div>
+
+        <div class="scenario-container">
+            <h2>Emergency Response</h2>
+            <p class="madlib-text">
+                "We could <span class="blank" data-field="create_action"><select id="create_action"></select></span> a 
+                <span class="blank" data-field="technical_noun"><select id="technical_noun"></select></span> 
+                <span class="blank" data-field="location"><select id="location"></select></span> by 
+                <span class="blank" data-field="technical_action"><select id="technical_action"></select></span> the 
+                <span class="blank" data-field="system"><select id="system"></select></span> through the 
+                <span class="blank" data-field="secondary_system"><select id="secondary_system"></select></span>!"
+            </p>
+        </div>
+
+        <div class="scenario-container">
+            <h2>Complex Solution</h2>
+            <p class="madlib-text">
+                "By <span class="blank" data-field="technical_process"><select id="technical_process"></select></span> a 
+                <span class="blank" data-field="modifying_word"><select id="modifying_word"></select></span> 
+                <span class="blank" data-field="energy_type"><select id="energy_type"></select></span> 
+                <span class="blank" data-field="pattern"><select id="pattern"></select></span> using the 
+                <span class="blank" data-field="primary_tool"><select id="primary_tool"></select></span>, we might be able to 
+                <span class="blank" data-field="action_verb2"><select id="action_verb2"></select></span> their 
+                <span class="blank" data-field="target_system"><select id="target_system"></select></span> with a 
+                <span class="blank" data-field="modifier"><select id="modifier"></select></span> 
+                <span class="blank" data-field="emission_type2"><select id="emission_type2"></select></span>!"
+            </p>
+        </div>
+
+        <div class="button-group">
+            <button id="randomize">Randomize All</button>
+        </div>
+
+        <div class="output">
+            <p id="solution"></p>
+        </div>
+    </div>
+    <script src="static/js/script.js"></script>
+</body>
+</html>
