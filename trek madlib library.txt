@@ -1,0 +1,167 @@
+I'll create three "mad-lib" style technobabble templates that players can use to generate solutions during montage tests or problem-solving scenarios.
+
+
+
+# Star Trek Solution Generator Templates
+
+## Template 1: Basic Technical Solution
+"If we [ACTION VERB] the [SHIP SYSTEM] to emit a [PARTICLE TYPE] [EMISSION TYPE], we should be able to [DESIRED RESULT]."
+
+ACTION VERB:
+- Modify
+- Reconfigure
+- Reroute
+- Initialize
+- Calibrate
+
+SHIP SYSTEM:
+- Deflector dish
+- Main sensors
+- Shield generators
+- EPS conduits
+- Warp core
+
+PARTICLE TYPE:
+- Tachyon
+- Verteron
+- Chronoton
+- Tetryon
+- Graviton
+
+EMISSION TYPE:
+- Pulse
+- Beam
+- Field
+- Wave
+- Burst
+
+DESIRED RESULT:
+- Penetrate their shields
+- Break through the interference
+- Detect their ships
+- Disrupt their weapons
+- Establish communication
+
+Example: "If we modify the deflector dish to emit a tachyon pulse, we should be able to penetrate their shields."
+
+## Template 2: Emergency Response
+"We could [CREATE ACTION] a [TECHNICAL NOUN] [LOCATION] by [TECHNICAL ACTION] the [SYSTEM] through the [SECONDARY SYSTEM]!"
+
+CREATE ACTION:
+- Generate
+- Create
+- Establish
+- Project
+- Initialize
+
+TECHNICAL NOUN:
+- Feedback
+- Resonance
+- Containment
+- Interference
+- Dampening
+
+LOCATION:
+- Matrix
+- Field
+- Grid
+- Array
+- Network
+
+TECHNICAL ACTION:
+- Routing
+- Channeling
+- Cycling
+- Looping
+- Cascading
+
+SYSTEM:
+- Primary power
+- Shield harmonics
+- Sensor array
+- Computer core
+- Phaser banks
+
+SECONDARY SYSTEM:
+- Auxiliary processors
+- Secondary buffers
+- Backup generators
+- Emergency systems
+- Reserve power cells
+
+Example: "We could generate a feedback matrix by routing the primary power through the auxiliary processors!"
+
+## Template 3: Complex Solution
+"By [TECHNICAL PROCESS] a [MODIFYING WORD] [ENERGY TYPE] [PATTERN] using the [PRIMARY TOOL], we might be able to [ACTION VERB] their [TARGET SYSTEM] with a [MODIFIER] [EMISSION TYPE]!"
+
+TECHNICAL PROCESS:
+- Initializing
+- Configuring
+- Implementing
+- Modulating
+- Programming
+
+MODIFYING WORD:
+- Rotating
+- Cascading
+- Inverse
+- Phased
+- Recursive
+
+ENERGY TYPE:
+- Subspace
+- Quantum
+- Temporal
+- Warp
+- Plasma
+
+PATTERN:
+- Algorithm
+- Sequence
+- Protocol
+- Pattern
+- Format
+
+PRIMARY TOOL:
+- Main computer
+- Sensor array
+- Shield matrix
+- Deflector array
+- Warp core
+
+ACTION VERB:
+- Disrupt
+- Override
+- Bypass
+- Neutralize
+- Deactivate
+
+TARGET SYSTEM:
+- Weapons
+- Shields
+- Sensors
+- Communications
+- Propulsion
+
+MODIFIER:
+- Focused
+- Concentrated
+- Amplified
+- Enhanced
+- Synchronized
+
+EMISSION TYPE:
+- Burst
+- Pulse
+- Beam
+- Wave
+- Field
+
+Example: "By initializing a rotating subspace algorithm using the main computer, we might be able to disrupt their weapons with a focused burst!"
+
+To use these templates, players can either:
+1. Roll randomly for each category
+2. Pick the most appropriate options for their situation
+3. Mix and match between templates to create new combinations
+
+The key is to sound confident and use at least 3-4 technical terms in each solution attempt!

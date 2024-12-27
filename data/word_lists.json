@@ -1,0 +1,110 @@
+{
+    "technical_processes": [
+        "inverting",
+        "recalibrating",
+        "modulating",
+        "resequencing",
+        "polarizing",
+        "phase-shifting",
+        "realigning",
+        "reconfiguring",
+        "amplifying",
+        "redirecting"
+    ],
+    "modifying_words": [
+        "tachyon",
+        "quantum",
+        "subspace",
+        "graviton",
+        "positronic",
+        "neutrino",
+        "chroniton",
+        "polaron",
+        "tetryon",
+        "baryon"
+    ],
+    "energy_types": [
+        "plasma",
+        "photon",
+        "antimatter",
+        "ionic",
+        "warp",
+        "temporal",
+        "biogenic",
+        "thermionic",
+        "nucleonic",
+        "metaphasic"
+    ],
+    "patterns": [
+        "matrix",
+        "field",
+        "wave",
+        "beam",
+        "pulse",
+        "stream",
+        "cascade",
+        "resonance",
+        "frequency",
+        "signature"
+    ],
+    "primary_tools": [
+        "deflector dish",
+        "main deflector",
+        "warp core",
+        "phase discriminator",
+        "particle synthesizer",
+        "emitter array",
+        "flux capacitor",
+        "harmonic resonator",
+        "field generator",
+        "plasma conduit"
+    ],
+    "action_verbs": [
+        "disrupt",
+        "neutralize",
+        "destabilize",
+        "bypass",
+        "overload",
+        "reconfigure",
+        "enhance",
+        "modify",
+        "augment",
+        "synchronize"
+    ],
+    "target_systems": [
+        "shields",
+        "weapons",
+        "sensors",
+        "propulsion system",
+        "life support",
+        "power grid",
+        "defense matrix",
+        "warp field",
+        "targeting array",
+        "computer core"
+    ],
+    "modifiers": [
+        "focused",
+        "concentrated",
+        "rotating",
+        "oscillating",
+        "modulated",
+        "synchronized",
+        "phased",
+        "polarized",
+        "resonating",
+        "cascading"
+    ],
+    "emission_types": [
+        "beam",
+        "pulse",
+        "burst",
+        "wave",
+        "stream",
+        "field",
+        "discharge",
+        "surge",
+        "blast",
+        "ray"
+    ]
+}
